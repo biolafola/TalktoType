@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: ["main", "claude/voice-to-text-app-8LqDv"]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
